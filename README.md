@@ -1,2 +1,4 @@
 # tr-sunucu-wiki
-[turkish] Sunucu kurma ile alakalı bir wiki
+
+| [Wiki Linki](https://thealan404.github.io/tr-sunucu-wiki) |
+| --- |
