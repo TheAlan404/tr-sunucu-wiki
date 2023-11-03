@@ -14,6 +14,8 @@ Aynı anda nasıl web sitesinin farklı kısımlarını kodlayanilirsiniz?
 
 Tabikide hepinizde bütün projenin bir kopyası var ise! Herkesde `index.html` dosyası var olsun.
 
+
+
 Ama şimdi başka bir sorun var. Siz diyelim ki arka plan resmini değiştirdiniz.
 
 Ama aynı anda başkası *aynı dosyada* sayfanın altına sosyal medya kısmı ekledi!
